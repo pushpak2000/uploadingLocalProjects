@@ -1,0 +1,11 @@
+aiobotocore                   2.5.0
+aiofiles                      22.1.0
+aiohttp                       3.8.5
+aioitertools                  0.7.1
+aiosignal                     1.2.0
+aiosqlite                     0.18.0
+alabaster                     0.7.12
+anaconda-anon-usage           0.4.2
+anaconda-catalogs             0.2.0
+anaconda-client               1.12.1
+anaconda-cloud-auth           0.1.3
