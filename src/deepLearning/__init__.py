@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("DL_Implementation | AWS")
+logger = logging.getLogger("DL_Implementation_AWS")
